@@ -8,8 +8,7 @@ The problem statements we aimed to answer were as follows:
 - [How do I create an iOS game?](ios/JK002SpriteKit)
 - [How do I create a thing in the game?](ios/JK003Circle)
 - [How can I tap on that thing?](ios/JK004InteractiveCircle)
-- How do I drag a thing I tap on?
-- How do I know when I’m finished dragging?
+- [How do I drag a thing?](ios/JK005DraggableCircle)
 - How do I have multiple things I can drag?
 
 Rules
