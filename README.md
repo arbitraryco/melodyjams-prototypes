@@ -4,8 +4,8 @@ These Swift 3 recreations of some of the original prototypes for Melody Jams.
 
 The problem statements we aimed to answer were as follows:
 
-- How do I create an iOS app?
-- How do I create an iOS game?
+- [How do I create an iOS app?](ios/JK001InitialApp)
+- [How do I create an iOS game?](ios/JK002SpriteKit)
 - How do I create a thing I can tap on?
 - How do I change the state of a thing I tap on?
 - How do I drag a thing I tap on?
