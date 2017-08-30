@@ -10,7 +10,7 @@ The problem statements we aimed to answer were as follows:
 - [How can I tap on that thing?](ios/JK004InteractiveCircle)
 - [How do I drag a thing?](ios/JK005DraggableCircle)
 - [How do I have multiple things I can drag?](ios/JK006MultipleCircles)
-- How do I detect when one thing is near another thing?
+- [How do I detect when one thing is near another thing?](ios/JK007CircleDistanceDetection)
 
 Rules
 -------------------
